@@ -170,15 +170,9 @@ main section#skills .icons i.fa-css3-alt:hover {
 main section#skills .icons i.fa-js:hover {
   color: #fcd200;
 }
-main section#skills .icons i.fa-react:hover {
-  color: #49b7e8;
-}
 main section#skills .icons i.fa-python:hover {
     color: #3b7845;
   }
-main section#skills .icons i.fa-bootstrap:hover {
-  color: #533b78;
-}
 main section#skills .icons i.fa-java:hover {
   color: #e28f00;
 }
