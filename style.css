@@ -17,7 +17,16 @@ body {
 body span.highlight {
   color: #000000;
 }
-
+::-webkit-scrollbar{
+  width: 12px;
+}
+::-webkit-scrollbar-track{
+  background: #000000;
+}
+::-webkit-scrollbar-thumb{
+  background: rgb(255, 255, 255);
+  border-radius: 5px;
+}
 h1,
 h2,
 h3,
