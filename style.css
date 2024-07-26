@@ -130,29 +130,29 @@ main section#welcome-section .contacts a {
 main section#welcome-section .contacts a:hover {
   color: #54a0ff;
 }
-main section#experience {
+main section#education {
   padding-top: 5rem;
 }
-main section#experience .experience {
+main section#education .education {
   margin-bottom: 2.5rem;
 }
-main section#experience .experience h2 {
+main section#education .education h2 {
   font-size: 2rem;
   text-transform: uppercase;
 }
-main section#experience .experience h3 {
+main section#education .education h3 {
   font-size: 1.5rem;
   color: #6c757d;
   text-transform: uppercase;
 }
-main section#experience .experience div {
+main section#education .education div {
   color: #000000;
   font-size: 1.2rem;
   font-weight: 600;
   margin-bottom: 1rem;
  
 }
-main section#experience .experience p {
+main section#education .education p {
   font-size: 1.3rem;
 }
 main section#skills {
@@ -162,6 +162,15 @@ main section#skills h2 {
   font-size: 2rem;
   color: #6c757d;
   text-transform: uppercase;
+}
+main section#experience h2 {
+  font-size: 2rem;
+  color: #6c757d;
+  text-transform: uppercase;
+}
+main section#experience h3 {
+  font-size: 1rem;
+  color: #525960;
 }
 main section#skills .icons {
   margin: 0.5rem 0 2rem 0;
@@ -180,16 +189,23 @@ main section#skills .icons i.fa-css3-alt:hover {
 main section#skills .icons i.fa-js:hover {
   color: #fcd200;
 }
-main section#skills .icons i.fa-python:hover {
-    color: #3b7845;
+main section#skills .icons i.fa-react:hover {
+    color: #4fe5ff;
   }
-main section#skills .icons i.fa-java:hover {
-  color: #e28f00;
+main section#skills .icons i.fa-sass:hover {
+    color: #ff4fe5;
+  }
+main section#skills .icons i.fa-git-alt:hover {
+  color: #ffa407;
 }
 main section#skills ul {
   list-style: square;
 }
 main section#skills ul li {
+  font-size: 1.3rem;
+  margin-left: 2rem;
+}
+main section#experience ul li {
   font-size: 1.3rem;
   margin-left: 2rem;
 }
